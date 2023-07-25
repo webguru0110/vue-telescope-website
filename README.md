@@ -31,4 +31,4 @@ Start the development server on http://localhost:3000
 yarn dev
 ```
 
-NOTE: If you need to use authentication features, you will need to manually replace `https://vuetelescope.com` with `http://localhost:3000` on GitHub URL callback.
+NOTE: If you need to use authentication features, you will need to manually replace `https://domain.com` with `http://localhost:3000` on GitHub URL callback.
